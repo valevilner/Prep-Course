@@ -9,7 +9,7 @@
         Hacé click acá para dejar tu feedback sobre esta clase.
       </a>
     </td>
-  </tr>
+  </tr>asdasd
 </table>
 
 # Primeros Pasos
