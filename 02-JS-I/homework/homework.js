@@ -8,7 +8,7 @@ const nuevoNum = 123123;
 // un number son los que son exclusivamente numeros
 
 // Crea una variable booleana:
-const nuevoBool = null;
+const nuevoBool = true;
 // los boleanos son el true(verdadero), false(falso) y el null(nulo)
 
 // Resuelve el siguiente problema matemático:
@@ -87,11 +87,11 @@ function sonIguales(x, y) {
     return false;
   }
 }
-sonIguales(2,'2') 
+//sonIguales(2,'2') 
 // en este caso nos devolvera false porque pueden tener el 2 pero son de distintos tipo asi que nuestra
 // condicion no se cumple, da falso y entra en las llaves del else
 
-sonIguales(10,10) 
+//sonIguales(10,10) 
 // En este caso nos devolvera true porque son el mismo numero y del mismo tipo asi que nuestra condicion se cumple
 // y entra en las llaves del if
 
@@ -109,7 +109,7 @@ function tienenMismaLongitud(str1, str2) {
 
   }
 }
-tienenMismaLongitud('marcos','vale')
+//tienenMismaLongitud('marcos','vale')
 
 
 function menosQueNoventa(num) {
@@ -274,7 +274,7 @@ function deEuroAdolar(euro){
 }
 
 
-function esVocal(letra){ c
+function esVocal(letra){ 
   //Escribe una función que reciba una letra y, si es una vocal, muestre el mensaje “Es vocal”. 
   //Verificar si el usuario ingresó un string de más de un carácter, en ese caso, informarle 
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
